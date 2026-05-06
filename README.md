@@ -185,14 +185,14 @@ ADD  R7, R4
 
 ---
 
-## 👥 Team — Group 09
+## 👥 Team
 
-| Member               | Contribution                     |
-| -----------------    | -------------------------------- |
-| Jayasekara J.P.D.N.R | Instruction Decoder, Program ROM |
-| Jackson J.W.         | MUX Design, Data Path            |
-| Isaiyalan K.         | Register Bank, Decoder           |
-| Jathursanan S.       | ALU, PC, Adder                   |
+| Member               | 
+| -----------------    | 
+| Jayasekara J.P.D.N.R |
+| Jackson J.W.         |
+| Isaiyalan K.         |
+| Jathursanan S.       |
 
 ---
 
